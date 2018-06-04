@@ -38,5 +38,20 @@
     "dev:hot": "webpack-dev-server --hot --inline --progress --colors --watch --display-error-details --display-cached --content-base ./",
     "test:watch": "npm run test -- --watch",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "## Overview",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalewb/react-components-lab-nyc-web-040218.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalewb/react-components-lab-nyc-web-040218/issues"
+  },
+  "homepage": "https://github.com/dalewb/react-components-lab-nyc-web-040218#readme"
 }
